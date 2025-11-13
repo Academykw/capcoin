@@ -36,8 +36,8 @@ in real-time with detailed charts and favorites management.
 
 
 
-Home Screen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Detail Screen
+Home Screen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detail Screen
+
 <img alt="Home Screen" src="https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02?raw=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Detail Screen" src="https://github.com/user-attachments/assets/e912a01d-8890-4ccb-ad25-7b46cd8c9bf8?raw=true" />
