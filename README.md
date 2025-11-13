@@ -34,8 +34,8 @@ in real-time with detailed charts and favorites management.
 ## 📱 Screenshots
 
 ```
-Home Screen        Detail Screen       Favorites
-[Coin List]       [Price Chart]       [Saved Coins]
+Home Screen               
+![image alt](![home](https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02)) 
 
 ```
 
