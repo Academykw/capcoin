@@ -33,11 +33,11 @@ in real-time with detailed charts and favorites management.
 
 ## 📱 Screenshots
 
-```
-Home Screen               
-![home](https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02)
 
-```
+Home Screen               
+![image alt](https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02)
+
+
 
 ## Getting Started
 
