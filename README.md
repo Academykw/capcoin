@@ -35,7 +35,7 @@ in real-time with detailed charts and favorites management.
 
 ```
 Home Screen               
-![image alt](![home](https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02)) 
+![home](https://github.com/user-attachments/assets/5a85484a-90fc-4bdd-9430-d121479b4c02)
 
 ```
 
